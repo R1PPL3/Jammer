@@ -30,4 +30,3 @@ Whoever selected their color and guessed a correct song the fastest wins the rou
 How does it work? 
 
 Uses a List of Words that are applicable to Song association (e.g. words that come up most often in song lyrics and song titles). Once the players presses start game 5, 10, or 15 words that are not repeated will be randomly generated, and will displayed as explained in the 'what is it?' section. 
-![image](https://github.com/R1PPL3/Jammer/assets/122254679/36bff464-ad82-4ecb-9a26-64ece1136200)
