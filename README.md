@@ -1,12 +1,14 @@
 # Jammer
 Song Games using Spotify API 
 
-Games: 
+# Games: 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-Song guessing game 
+Song guessing game
+
 Using Spotify API
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 Song association game:
 
 What is it?
@@ -25,6 +27,8 @@ You can then choose how many players are participating.
 Once the game mode is decided and you pressed start a word will pop up on the screen, a 5 second timer will start as well. In this 5-second time frame you must rather guess a song that includes this word in its lyrics, or guess a song which has this word in its title. The screen will be split into 4 equal sections which are color coded to the player's chosen colors, once pressed on your chosen color, it will be 'selected'. once selected you and only you have to give out your answer to the group. a selection can be overridden if the player did not give the correct answer, by pressing another color (in the case of another player having an answer) or pressing the color again to unselect it.
 
 Whoever selected their color and guessed a correct song the fastest wins the round.
+
+
 
 
 How does it work? 
